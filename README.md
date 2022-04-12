@@ -6,11 +6,11 @@ Python mini project based on: https://github.com/csfeeser/Python/tree/master/TLG
 Made changes to a game based off original code.
 
 Game loosely based around Office Space
-You are Peter at Initech
-Navigate through the rooms
-Collect items
-Watch out for Lumbergh
-Certain items are important for beating the boss, winning the game, or getting a surprise!
+* You are Peter at Initech
+* Navigate through the rooms
+* Collect items
+* Watch out for Lumbergh
+* Certain items are important for beating the boss, winning the game, or getting a surprise!
 
 Commands:
     go [direction]

@@ -31,7 +31,6 @@ Handling if user enters wrong command
 
 Things I want to implement still:
 Make condition to defeat boss as having inspected item, not just in inventory
-Provide map
 List rooms
 Clear console
 Multiple items in room

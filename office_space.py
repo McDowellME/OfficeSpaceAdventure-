@@ -42,7 +42,7 @@ def main():
                   "directions" : {
                       "south" : "The Hall",
                       "east" : "The Printer Room",
-                      "west" : "Chotckie's"
+                      "west" : "The Street"
                   },
                   "person" : {
                     "name" : "Nina",
@@ -115,9 +115,16 @@ def main():
                     "phrase" : ['"Let\'s do this!"']
                   }
               },
+              "The Street" : {
+                "directions" : {
+                  "east" : "Reception",
+                  "west" : "Chotckie's"
+
+                }
+              },
               "Chotckie's" : {
                   "directions" : {
-                      "east" : "Reception",
+                      "east" : "The Street",
                   },
                   "item" : "flair",
                   "person" : {

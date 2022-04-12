@@ -20,12 +20,14 @@ Commands:
 
 
 From original code, I added:
+Built out dictionaries for better handling
 More rooms
 People that say random phrases
 A way to inspect items to get description in the room or in inventory
 An item that transports you and a way to get back
 A winning and losing scenario
 A way to beat the boss.
+Handling if user enters wrong command
 
 Things I want to implement still:
 Make condition to defeat boss as having inspected item, not just in inventory
